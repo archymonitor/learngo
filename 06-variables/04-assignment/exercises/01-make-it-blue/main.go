@@ -25,6 +25,7 @@ func main() {
 	// color := "green"
 
 	// ADD YOUR CODE BELOW:
-
+           color := "blue"
+		fmt.Println(color)
 	// ?
 }
